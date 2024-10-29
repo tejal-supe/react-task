@@ -1,0 +1,14 @@
+.login-outDiv{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 10px;
+    width: 80%;
+}
+.passDiv{
+    position: relative;
+}
+.passDiv .showpass{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    cursor: pointer;
+} 
